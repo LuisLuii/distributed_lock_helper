@@ -1,0 +1,4 @@
+coloredlogs~=14.0
+uuid~=1.30
+redis~=3.0.1
+python-json-logger
