@@ -1,0 +1,2 @@
+class CreateFutureTimeout(Exception):
+    pass
