@@ -2,7 +2,6 @@
 # distrilockper - Distributed Lock Helper
 
 ### Feature
-
 - Support Redis Cluster and Redis Single setup
 - Redis operation with Lua scripting (Atomic operations)
 - Lock watch dog (auto increase the alive time of key if the process time is large than key ttl)
